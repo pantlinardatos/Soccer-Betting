@@ -1,2 +1,6 @@
 # Soccer-Betting
-Undergraduate Thesis 
+
+Code created for Undergraduate Thesis
+
+1)zx
+asdadsasasdasd
